@@ -14,9 +14,8 @@
 <form action="LoginServlet" method=post>
 <table>
 
-
 <tr>
-<td>Enter Name:</td>
+<td>Enter Name:</td> 
 <td><input type=text name=txtName></td>
 </tr>
 
